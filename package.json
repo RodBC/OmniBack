@@ -1,0 +1,17 @@
+{
+  "name": "backend-omnistack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RodBC/OmniBack.git",
+  "author": "RodBC <rodrigo.barros.castro@hotmail.com>",
+  "license": "MIT",
+  "scripts":{
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
